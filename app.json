@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Pet Shop",
+    "slug": "petshop-lavinia-mirella",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.laviniamirella.petshop"
+    },
+    "plugins": [
+      "expo-notifications",
+      "expo-font"
+    ]
+  }
+}
